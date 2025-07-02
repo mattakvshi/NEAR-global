@@ -1,6 +1,6 @@
 # NEAR-global
 - Это общий репозиторий, служащий переходником для всех репозиториев и интересных материалов, связанных с проектом NEAR
-- Если вы хотите попробовать потыкать демоверсию системы, то скачайте мобильное приложение по ссылке [DOWNLOADED](https://github.com/DmitriyVladarchuk/NEAR-Mobile/releases) (Только для Android)
+- Если вы хотите попробовать потыкать демоверсию системы, то скачайте мобильное приложение по ссылке [DOWNLOAD](https://github.com/DmitriyVladarchuk/NEAR-Mobile/releases) (Только для Android)
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6c5cab&lines=Hello+World+I`m+NEAR)](https://git.io/typing-svg)
 
