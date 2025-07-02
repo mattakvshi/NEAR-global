@@ -13,7 +13,7 @@
 - [NEAR-frontend](https://github.com/mattakvshi/NEAR-frontend)
 
 
-
+---
 <div style="display: flex; flex-wrap: nowrap; gap: 10px;">
   <img src="https://github.com/mattakvshi/NEAR-global/blob/main/img/output-onlinepngtools.png" alt="drawing" width="190" style="flex-shrink: 0;">
   <img src="https://github.com/mattakvshi/NEAR-global/blob/main/img/output-onlinepngtools.png" alt="drawing" width="190" style="flex-shrink: 0;">
