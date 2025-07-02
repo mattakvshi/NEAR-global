@@ -7,7 +7,10 @@
 ![1](https://github.com/mattakvshi/NEAR-global/blob/main/img/1.jpg)
 
 ---
-
+## Основные репозитории
+- [NEAR-backend](https://github.com/mattakvshi/NEAR-backend)
+- [NEAR-mobail](https://github.com/DmitriyVladarchuk)
+- [NEAR-frontend](https://github.com/mattakvshi/NEAR-frontend)
 
 
 
